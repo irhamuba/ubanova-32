@@ -1,0 +1,21 @@
+UbaNova-32
+Copyright 2026 Muhammad Fahril Irkham (UbaNova)
+
+This product includes software and model weights created by
+Muhammad Fahril Irkham, known online as UbaNova.
+
+  GitHub:       https://github.com/irhamuba
+  X:            https://x.com/UbaNova
+  Hugging Face: https://huggingface.co/ubanova
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Attribution: if you use, modify or redistribute this code or the model
+weights, keep this NOTICE file and credit the work as
+"UbaNova-32 by Muhammad Fahril Irkham (@UbaNova)".
+
+The model was fine-tuned from UbaNova-16 on azyg0s/pixelart-172k (MIT),
+ProbablyHumanAB/moss-pixelart-64 (Apache-2.0),
+Angais/pixel-art-atlas-1.4m (CC0-1.0) and
+Angais/krea-2-pixelart-16x16-synthetic (CC0-1.0). See README.md,
+section "Data and license notes", before commercial use of generated sprites.
